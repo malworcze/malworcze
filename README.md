@@ -1,10 +1,11 @@
 # malworcze
+hi im malworcze
 
 > hi! i wont be so active here
 
 ## About Me
 
-Hi! I'm **Malword**, a developer, student, and obsessive tinkerer. I like building small projects, experimenting with web stuff, and occasionally making Touhou songs in Minecraft noteblocks because why not suffer voluntarily.
+
 
 - 💻 Web Development
 - 🎵 Noteblock Music (Touhou covers)
