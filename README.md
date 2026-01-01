@@ -11,5 +11,7 @@ hi im malworcze, i mainly code in HTML, CSS, little bit of JS, and Python, i'm I
 - i post malware collection
 - i make noteblock songs [here](https://youtube.com/@zMalword)
 #
-![Alt text describing the blinkie1](./images/zun.png)
-![Alt text describing the blinkie1](./images/reisen.png)
+my fav stamps
+![Alt text describing the blinkie1](overdrive.gif)
+![Alt text describing the blinkie1](reisen.png)
+![Alt text describing the blinkie1](stay.gif)
