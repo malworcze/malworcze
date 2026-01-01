@@ -9,5 +9,5 @@ hi im malworcze, i mainly code in HTML, CSS, little bit of JS, and Python, i'm I
 - website archive
 - im not really a web dev
 - i post malware collection
-- i make noteblock songs
+- i make noteblock songs [here](https://youtube.com/@zMalword)
 
