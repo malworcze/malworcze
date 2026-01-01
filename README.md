@@ -1,16 +1,30 @@
-## Hi there 👋
+# Malword's Portfolio
 
-<!--
-**malworcze/malworcze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> A small collection of my projects, because someone has to show them off before Touhou floods the internet with more spell cards than sense.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi! I'm **Malword**, a developer, student, and obsessive tinkerer. I like building small projects, experimenting with web stuff, and occasionally making Touhou songs in Minecraft noteblocks because why not suffer voluntarily.
+
+- 💻 Web Development
+- 🎵 Noteblock Music (Touhou covers)
+- 🎨 Fun experiments & personal projects
+
+## Projects
+
+### Alert Creator
+A simple JavaScript project that creates custom alerts with user input.  
+_Motto: Make your browser scream._
+
+### Noteblock Music
+Touhou songs recreated in Minecraft note blocks. Painful, meticulous, and oddly satisfying.
+
+### Personal Portfolio Website
+This repository! A simple dark-mode portfolio showing my work so far.  
+_Totally more coherent than Touhou canon._
+
+## How to Run
+
+1. Clone this repo:
+```bash
+git clone https://github.com/yourusername/portfolio.git
