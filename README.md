@@ -1,6 +1,6 @@
-# Malword's Portfolio
+# malworcze
 
-> A small collection of my projects, because someone has to show them off before Touhou floods the internet with more spell cards than sense.
+> hi! i wont be so active here
 
 ## About Me
 
