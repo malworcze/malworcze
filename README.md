@@ -1,5 +1,5 @@
 # malworcze
-hi im malworcze
+hi im malworcze, i mainly code in HTML, CSS, little bit of JS, and Python
 
 > hi! i wont be so active here
 
