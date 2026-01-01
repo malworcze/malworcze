@@ -10,4 +10,6 @@ hi im malworcze, i mainly code in HTML, CSS, little bit of JS, and Python, i'm I
 - im not really a web dev
 - i post malware collection
 - i make noteblock songs [here](https://youtube.com/@zMalword)
-
+#
+![Alt text describing the blinkie1](./images/zun.png)
+![Alt text describing the blinkie1](./images/reisen.png)
