@@ -3,13 +3,12 @@ hi im malworcze, i mainly code in HTML, CSS, little bit of JS, and Python, i'm I
 
 > 
 
-## About Me
+## things about me
 
-
-
-- 💻 Web Development
-- 🎵 Noteblock Music (Touhou covers)
-- 🎨 Fun experiments & personal projects
+- random project
+- website archive
+- web dev
+- malware collection
 
 ## Projects
 
