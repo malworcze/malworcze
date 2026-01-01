@@ -11,6 +11,11 @@ im malworcze, im straight, i mainly code in HTML, CSS, little bit of JS, and Pyt
 - i post malware collection
 - i make noteblock songs [here](https://youtube.com/@zMalword)
 
+## my projects
+[i store my projects here :D](https://malworcze.nekoweb.org/project.html)
+
+
+
 > ~ malworcze 1/1/2026
 #
 ![Alt text describing the blinkie1](overdrive.gif)
