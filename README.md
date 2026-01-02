@@ -14,7 +14,7 @@ im malworcze, im straight, i mainly code in HTML, CSS, little bit of JS, and Pyt
 ## my projects
 [i store my projects here :D](https://malworcze.nekoweb.org/project.html)
 
-[![Malword profile views](https://u8views.com/api/v1/github/profiles/120482486/views/day-week-month-total-count.svg)](https://u8views.com/github/malworcze)
+![](https://komarev.com/ghpvc/?username=malworcze)
 
 
 
